@@ -1,0 +1,2 @@
+# Image-Transmission-Using-Under-Water-Wireless-Optical-Communication
+Image transmission using underwater wireless optical communication involves using light waves to transmit visual data through water, enabling high-speed and high-bandwidth communication. This method overcomes the limitations of acoustic and radio frequency communication in underwater environments, providing clearer and faster data transfer.
